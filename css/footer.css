@@ -1,0 +1,30 @@
+.footer {
+    color: #f4f4fd;
+    background-color: #2e2f42;
+    padding: 100px 0;
+}
+
+.footer .logo {
+    display: inline-block;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.03em;
+    line-height: 1.33;
+    margin-bottom: 16px;
+}
+
+.footer .accent {
+    color: #4D5AE5;
+}
+
+.nav .nav-link:hover,
+.nav .nav-link:focus,
+.nav .nav-link:active {
+    color: #404BBF;
+}
+
+
+.footer-text {
+    max-width: 264px;
+}
