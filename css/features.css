@@ -28,3 +28,14 @@
 .features {
     padding: 120px 0;
 }
+
+.features-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0 24px 0;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    background-color: #F4F4FD;
+    margin-bottom: 8px;
+}

@@ -28,3 +28,22 @@
 .footer-text {
     max-width: 264px;
 }
+
+.footer-container {
+    display: flex;
+    align-items: baseline;
+
+}
+
+.social-text {
+    margin-bottom: 16px;
+}
+
+.footer .social-icons {
+    display: flex;
+    gap: 16px;
+}
+
+.footer-social {
+    margin-left: 120px;
+}
