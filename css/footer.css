@@ -57,11 +57,6 @@
     font-weight: 500;
 }
 
-.footer .social-icons {
-    display: flex;
-    gap: 16px;
-}
-
 .footer-social {
     margin-left: 120px;
 }
