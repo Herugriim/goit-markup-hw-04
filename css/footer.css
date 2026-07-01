@@ -32,8 +32,8 @@
 
 .footer-icons {
     display: flex;
-    gap: 24px;
-    padding-top: 8px;
+    gap: 16px;
+    padding-top: 16px;
 }
 
 .footer-icons .footer-link:hover,
@@ -64,4 +64,8 @@
 
 .footer-social {
     margin-left: 120px;
+}
+
+.footer svg {
+    fill: #f4f4fd;
 }
